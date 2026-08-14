@@ -21,10 +21,6 @@ All users (or specify a particular group of users)
 
 # Purview Documentation
 
-## Available Documents
-
-- docs/Email-Retention-Policy.md
-
 | Setting                | Value                  |
 | ---------------------- | ---------------------- |
 | Policy Name            | Email Retention Policy |
@@ -32,3 +28,7 @@ All users (or specify a particular group of users)
 | Retention Period       | 7 Years                |
 | Action After Retention | Automatically Delete   |
 | Scope                  | All Mailboxes          |
+
+## Available Documents
+
+- docs/Email-Retention-Policy.md
