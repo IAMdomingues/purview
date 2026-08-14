@@ -13,7 +13,7 @@ This document describes the implementation of an email retention policy in Micro
 
 Navigate to:
 
-https://compliance.microsoft.com
+https://purview.microsoft.com/
 
 ../screenshots/step01-access-purview.png
 
