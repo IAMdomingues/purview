@@ -18,8 +18,7 @@ Navigate to:
 https://purview.microsoft.com/
 
 Screenshot:
-../screenshots/step01-access-purview.png
-
+[![Captura de tela](../screenshots/step01-access-purview.png)](../screenshots/step01-access-purview.png)
 ---
 
 ## Step 2 - Open Retention Policies
@@ -29,15 +28,13 @@ Navigate to:
 Data Lifecycle Management > Retention Policies
 
 Screenshot:
-../screenshots/step02-retention-policies.png
-
+[![Captura de tela](../screenshots/step02-retention-policies.png)](../screenshots/step02-retention-policies.png)
 ### Step 2.1 - Retention Policies Overview
 
 Review the existing retention policies and select **New retention policy**.
 
 Screenshot:
-../screenshots/step02-01-retention-policies.png
-
+[![Captura de tela](../screenshots/step02-01-retention-policies.png)](../screenshots/step02-01-retention-policies.png)
 ---
 
 ## Step 3 - Create a New Policy
@@ -45,8 +42,7 @@ Screenshot:
 Click **New retention policy** to start the configuration wizard.
 
 Screenshot:
-../screenshots/step03-create-policy.png
-
+[![Captura de tela](../screenshots/step03-create-policy.png)](../screenshots/step03-create-policy.png)
 ---
 
 ## Step 4 - Configure Policy Details
@@ -59,8 +55,7 @@ Enter the following information:
 Provide a meaningful name and description that clearly identifies the purpose of the policy.
 
 Screenshot:
-../screenshots/step04-policy-name-description.png
-
+[![Captura de tela](../screenshots/step04-policy-name-description.png)](../screenshots/step04-policy-name-description.png)
 ---
 
 ## Step 5 - Select Policy Type
@@ -68,8 +63,7 @@ Screenshot:
 Choose the appropriate retention policy type according to the business requirements.
 
 Screenshot:
-../screenshots/step05-select-retention-policy-type.png
-
+[![Captura de tela](../screenshots/step05-select-retention-policy-type.png)](../screenshots/step05-select-retention-policy-type.png)
 ---
 
 ## Step 6 - Select Policy Locations
@@ -87,8 +81,7 @@ Available locations include:
 For this implementation, the policy applies to Exchange Online mailboxes.
 
 Screenshot:
-../screenshots/step06-select-policy-locations.png
-
+[![Captura de tela](../screenshots/step06-select-policy-locations.png)](../screenshots/step06-select-policy-locations.png)
 ### Step 6.1 - Configure Mailbox Scope
 
 Choose whether the policy should apply to:
@@ -98,15 +91,13 @@ Choose whether the policy should apply to:
 - Excluded mailboxes
 
 Screenshot:
-../screenshots/step06-01-mailbox-scope.png
-
+[![Captura de tela](../screenshots/step06-01-mailbox-scope.png)](../screenshots/step06-01-mailbox-scope.png)
 ### Step 6.2 - Search Mailboxes to Exclude
 
 Search for the mailboxes or groups that should be excluded from the policy.
 
 Screenshot:
-../screenshots/step06-02-search-mailboxes.png
-
+[![Captura de tela](../screenshots/step06-02-search-mailboxes.png)](../screenshots/step06-02-search-mailboxes.png)
 ### Step 6.3 - Confirm Excluded Mailboxes
 
 Verify the list of excluded mailboxes.
@@ -114,8 +105,7 @@ Verify the list of excluded mailboxes.
 In this configuration, 10 mailboxes were excluded from the policy.
 
 Screenshot:
-../screenshots/step06-03-excluded-mailboxes.png
-
+[![Captura de tela](../screenshots/step06-03-excluded-mailboxes.png)](../screenshots/step06-03-excluded-mailboxes.png)
 ---
 
 ## Step 7 - Configure Retention Settings
@@ -132,8 +122,7 @@ Available options include:
 Configure the option that meets the organization's compliance requirements.
 
 Screenshot:
-../screenshots/step07-retention-settings.png
-
+[![Captura de tela](../screenshots/step07-retention-settings.png)](../screenshots/step07-retention-settings.png)
 ---
 
 ## Step 8 - Review and Submit
@@ -150,8 +139,7 @@ Verify:
 Click **Submit**.
 
 Screenshot:
-../screenshots/step08-review-submit.png
-
+[![Captura de tela](../screenshots/step08-review-submit.png)](../screenshots/step08-review-submit.png)
 ---
 
 ## Step 9 - Policy Created Successfully
@@ -159,8 +147,7 @@ Screenshot:
 Verify that the policy was successfully created.
 
 Screenshot:
-../screenshots/step09-policy-created.png
-
+[![Captura de tela](../screenshots/step09-policy-created.png)](../screenshots/step09-policy-created.png)
 ---
 
 ## Step 10 - Verify Policy in Retention Policies List
