@@ -175,7 +175,7 @@ Verify:
 - Last modified date
 
 Screenshot:
-../screenshots/step10-policy-listed.png
+[![Captura de tela](../screenshots/step10-policy-listed.png)](../screenshots/step10-policy-listed.png)
 
 ---
 
