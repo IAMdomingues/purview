@@ -34,7 +34,7 @@ Screenshot:
 Review the existing retention policies and select **New retention policy**.
 
 Screenshot:
-[![Captura de tela](../screenshots/step02-01-retention-policies.png)](../screenshots/step02-01-retention-policies.png)
+[![Captura de tela](../screenshots/step02-1-retention-policies.png)](../screenshots/step02-1-retention-policies.png)
 ---
 
 ## Step 3 - Create a New Policy
@@ -91,13 +91,13 @@ Choose whether the policy should apply to:
 - Excluded mailboxes
 
 Screenshot:
-[![Captura de tela](../screenshots/step06-01-mailbox-scope.png)](../screenshots/step06-01-mailbox-scope.png)
+[![Captura de tela](../screenshots/step06.01-mailbox-scope.png)](../screenshots/step06.01-mailbox-scope.png)
 ### Step 6.2 - Search Mailboxes to Exclude
 
 Search for the mailboxes or groups that should be excluded from the policy.
 
 Screenshot:
-[![Captura de tela](../screenshots/step06-02-search-mailboxes.png)](../screenshots/step06-02-search-mailboxes.png)
+[![Captura de tela](../screenshots/step06.02-search-mailboxes.png)](../screenshots/step06.02-search-mailboxes.png)
 ### Step 6.3 - Confirm Excluded Mailboxes
 
 Verify the list of excluded mailboxes.
@@ -105,7 +105,7 @@ Verify the list of excluded mailboxes.
 In this configuration, 10 mailboxes were excluded from the policy.
 
 Screenshot:
-[![Captura de tela](../screenshots/step06-03-excluded-mailboxes.png)](../screenshots/step06-03-excluded-mailboxes.png)
+[![Captura de tela](../screenshots/step06.03-excluded-mailboxes.png)](../screenshots/step06.03-excluded-mailboxes.png)
 ---
 
 ## Step 7 - Configure Retention Settings
