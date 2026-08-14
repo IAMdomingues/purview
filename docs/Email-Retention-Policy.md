@@ -9,32 +9,39 @@ This document describes the implementation of an email retention policy in Micro
 - Compliance Administrator role
 - Microsoft Purview access
 
-## Steps
+## Step 1 - Access Microsoft Purview
 
-### Step 1
+Navigate to:
 
-Access Microsoft Purview.
+https://compliance.microsoft.com
 
-### Step 2
+../screenshots/step01-access-purview.png
 
-Navigate to Data Lifecycle Management.
+## Step 2 - Open Retention Policies
 
-### Step 3
+Navigate to:
 
-Open Retention Policies.
+Data Lifecycle Management > Retention Policies
 
-### Step 4
+../screenshots/step02-retention-policies.png
 
-Create a new retention policy.
+## Step 3 - Create a New Policy
 
-### Step 5
+Select **New retention policy**.
 
-Configure retention settings.
-
-### Step 6
-
-Review and publish the policy.
+../screenshots/step03-create-policy.png
 
 ## Validation
 
-Verify the policy is active and assigned to the correct mailboxes.
+Verify that:
+
+- The policy status is Active
+- Exchange Online is included
+- The retention period is correct
+
+## Rollback
+
+1. Open Microsoft Purview.
+2. Navigate to Retention Policies.
+3. Select the policy.
+4. Disable or delete the policy.
