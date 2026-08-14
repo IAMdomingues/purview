@@ -19,6 +19,12 @@ This retention policy applies to:
 Exchange Online mailboxes
 All users (or specify a particular group of users)
 
+# Purview Documentation
+
+## Available Documents
+
+- docs/Email-Retention-Policy.md
+
 | Setting                | Value                  |
 | ---------------------- | ---------------------- |
 | Policy Name            | Email Retention Policy |
